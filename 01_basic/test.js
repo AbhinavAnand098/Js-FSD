@@ -20,3 +20,10 @@ because of issue in block scope and functional scope
 
 
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
+
+
+const myRepo=[1,2,2,2,3,5]
+for (let i = 0; i < myRepo.length; i++) {
+    console.log(myRepo[i]);
+    
+}
